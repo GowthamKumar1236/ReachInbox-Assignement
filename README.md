@@ -14,7 +14,7 @@ This web application was built using React for the frontend and Node.js with Exp
 
 ### Steps
 
-1. Clone the repository to your local machine.
+1. Clone the repository to  local machine.
    ```bash
    git clone <repository-url>
 
@@ -45,9 +45,6 @@ This web application was built using React for the frontend and Node.js with Exp
 # Using Node.js
 node server.js
 
-# Or, if you have Nodemon installed
-nodemon server.js 
-
 6. Start the Frontend Development Server:
 * Navigate back to the `frontend` directory.
   ```bash
@@ -58,7 +55,7 @@ nodemon server.js
    npm start
 
 7. Open the Application:
-   * Open your web browser and navigate to http://localhost:3000 to view the application.
+   * Opening web browser and navigate to http://localhost:3000 to view the application.
   
 
 **Configuration**
@@ -68,12 +65,12 @@ Make sure the backend API URL is correctly set in the frontend's environment con
 
 * Google OAuth Credentials:
 
-Set up your Google OAuth credentials and update the backend configuration to use them for Google login functionality.
+Set up  Google OAuth credentials and update the backend configuration to use them for Google login functionality.
 
 
 **Usage**
 * Login:
-Click the "Login with Google" button on the login page to authenticate using your Google account.
+Click the "Login with Google" button on the login page to authenticate using  Google account.
 
 * Thread Management:
 After logging in, you will be redirected to the thread management page where you can view, delete, and reply to threads.
